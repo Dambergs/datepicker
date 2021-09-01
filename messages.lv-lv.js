@@ -1,8 +1,8 @@
-gj.dialog.messages['bg-bg'] = {
+gj.dialog.messages['lv-lv'] = {
     Close: 'Затваряне',
     DefaultTitle: 'Диалогов Прозорец'
 };
-gj.grid.messages['bg-bg'] = {
+gj.grid.messages['lv-lv'] = {
     First: 'Първа',
     Previous: 'Предишна',
     Next: 'Следваща',
@@ -23,7 +23,7 @@ gj.grid.messages['bg-bg'] = {
     NoRecordsFound: 'Няма намерени записи.',
     Loading: 'Зареждане...'
 };
-gj.editor.messages['bg-bg'] = {
+gj.editor.messages['lv-lv'] = {
 	bold: 'Удебеляване',
 	italic: 'Накланяне',
 	strikethrough: 'Зачертаване',
@@ -39,7 +39,7 @@ gj.editor.messages['bg-bg'] = {
 	undo: 'Назад',
 	redo: 'Напред'
 };
-gj.core.messages['bg-bg'] = {
+gj.core.messages['lv-lv'] = {
     monthNames: ['Janvāris', 'Февруари', 'Март', 'Април', 'Май', 'Юни', 'Юли', 'Август', 'Септември', 'Октомври', 'Ноември', 'Декември'],
     monthShortNames: ['Яну', 'Фев', 'Мар', 'Апр', 'Май', 'Юни', 'Юли', 'Авг', 'Сеп', 'ОКт', 'Ное', 'Дек'],
     weekDaysMin: ['Н', 'П', 'В', 'С', 'Ч', 'П', 'С'],
